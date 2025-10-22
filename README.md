@@ -122,6 +122,10 @@ You can test all endpoints using **Postman Web** or **Thunder Client (VS Code)**
 Import the included collection file:  
 👉 `Tasks_API_Slim.postman_collection.json`
 
+📄 Additionally, this repository includes a detailed project report and the Postman collection for testing:
+- **Tasks_API_PHP_vs_Slim_Report.docx** — a full comparison and explanation of the API built using Core PHP vs Slim Framework.
+- **Tasks_API_Slim.postman_collection.json** — ready-to-import collection for endpoint testing.
+
 Make sure your Slim server is running at:
 
 ```
